@@ -1,7 +1,7 @@
 {
-  "name": "gulpstarter",
+  "name": "abl",
   "description": "Frontend start kit",
-  "author": "Rtxrulez",
+  "author": "abl",
   "license": "MIT",
   "scripts": {
     "start": "gulp",
