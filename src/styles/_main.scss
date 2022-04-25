@@ -1,8 +1,10 @@
 $red: #fc0122;
+$fontfamily: Geometria, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
 body {
   background-color: #03022a;
   color: white;
+  font-family: $fontfamily;
 }
 
 img {
