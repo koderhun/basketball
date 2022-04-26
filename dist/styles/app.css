@@ -6824,6 +6824,7 @@ img {
   max-width: 450px;
   width: 100%;
   display: block;
+  text-align: center;
 }
 
 .contacts {
